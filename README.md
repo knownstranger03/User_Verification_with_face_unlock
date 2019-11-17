@@ -37,7 +37,7 @@ Windows Anniversary Update on July 9th was a major developemnt for many windows 
  
  
  #######
- #Requirements
+# Requirements
  
  0. Python(https://www.python.org/ftp/python/3.6.3/python-3.6.3-amd64.exe) installed with with the following packages
  1. Numpy
@@ -79,7 +79,7 @@ Windows Anniversary Update on July 9th was a major developemnt for many windows 
                                                                                                            |
                                                                                                               |
                                                                                                                  |
-                                                                                                                    # Krishna Prasad
+#                                                                                                                      Krishna Prasad
      
   
  
